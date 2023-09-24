@@ -19,7 +19,7 @@
 
 ## Links
 - [DataHandling](https://drive.google.com/drive/folders/1nUnKPxm4daaQ44PvkZJKZ-weXgzWzlGc?usp=sharing)
-- [LinearModel](https://www.kaggle.com/code/titanrocky/linearrexample)
+- [LinearModel](https://www.kaggle.com/code/titanrocky/linearRegExample2)
 - [Neural Networks](https://colab.research.google.com/drive/1mglOn5xAueEhktR5gTnNzscqylVViBnv?usp=sharing)
 - [Colab](https://colab.google/)
 
