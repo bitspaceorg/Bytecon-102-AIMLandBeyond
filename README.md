@@ -18,6 +18,10 @@
 - [:bitspace](#bitspace)
 
 ## Links
+- [ML DOCS](https://verdant-saw-8e7.notion.site/ML-40266ca4920d4533910706e5cf0230fe?pvs=25)
+- [Tensor flow](https://docs.google.com/presentation/d/1jwkmY2dwNP8ArSSUYTz87iOWuUXeRTQkieE207rK_Uo/edit#slide=id.g245855cef09_0_133)
+- [Build ML model](https://colab.research.google.com/drive/1qUzlPLvKi7Nrn4MSxdYcMzU7zWZqsyka?authuser=1#scrollTo=yiYXNPwTviCX)
+- [Tensor with GPU](https://colab.research.google.com/notebooks/gpu.ipynb?authuser=1)
 - [DataHandling](https://drive.google.com/drive/folders/1nUnKPxm4daaQ44PvkZJKZ-weXgzWzlGc?usp=sharing)
 - [LinearModel](https://www.kaggle.com/code/titanrocky/linearRegExample2)
 - [Neural Networks](https://colab.research.google.com/drive/1mglOn5xAueEhktR5gTnNzscqylVViBnv?usp=sharing)
